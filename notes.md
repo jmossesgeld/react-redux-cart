@@ -3,7 +3,6 @@
 ```
 npm install react react-dom react-scripts redux react-redux
 ```
-
 ## 2. Create store
 
 ```
